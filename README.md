@@ -1,6 +1,5 @@
-# CodeClause_Internship
-CodeClause Data Science ( Customer Clustering Insights )
-CodeClause-Internship
+CODECLAUSE_INTERNSHIP
+
 Project: Customer Segmentation with K-Means Clustering
 Project Title: Customer Segmentation with K-Means Clustering
 Project Level: Entry Level
